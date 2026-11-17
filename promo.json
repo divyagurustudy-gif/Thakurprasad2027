@@ -1,0 +1,19 @@
+{
+  "show": true,
+  "apps": [
+    {
+      "name": "शुभ पंचांग",
+      "text": "रोज़ का पंचांग, राशिफल और मुहूर्त — बिल्कुल मुफ़्त",
+      "icon": "https://raw.githubusercontent.com/आपका-नाम/आपका-repo/main/shubh.png",
+      "package": "com.aapka.shubhpanchang",
+      "button": "इंस्टॉल करें"
+    },
+    {
+      "name": "आज का पेमेंट",
+      "text": "PhonePe QR से आया पैसा — रोज़ का पूरा हिसाब",
+      "icon": "https://raw.githubusercontent.com/आपका-नाम/आपका-repo/main/payment.png",
+      "package": "com.aapka.aajkapayment",
+      "button": "देखें"
+    }
+  ]
+}
