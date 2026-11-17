@@ -2,17 +2,17 @@
   "show": true,
   "apps": [
     {
-      "name": "शुभ पंचांग",
+      "name": "हिंदू पंचांग कैलेंडर 2027 ",
       "text": "रोज़ का पंचांग, राशिफल और मुहूर्त — बिल्कुल मुफ़्त",
-      "icon": "https://raw.githubusercontent.com/आपका-नाम/आपका-repo/main/shubh.png",
-      "package": "com.aapka.shubhpanchang",
+      "icon": "https://play-lh.googleusercontent.com/5ckV443zExZgQX2xRunvmj1J-8cGdHchP2W9B1b-D_atQx9lyLwB0-OBiow2bNVniCIebDnDAzG9HAdSMwaKJw=w480-h960-rw",
+      "package": "com.calendar2021.hindicalendar2021",
       "button": "इंस्टॉल करें"
     },
     {
-      "name": "आज का पेमेंट",
-      "text": "PhonePe QR से आया पैसा — रोज़ का पूरा हिसाब",
-      "icon": "https://raw.githubusercontent.com/आपका-नाम/आपका-repo/main/payment.png",
-      "package": "com.aapka.aajkapayment",
+      "name": "Hindi Calendar 2027 Panchang",
+      "text": "#1 हिंदी 2027 कैलेंडर ⭐️ 2027 के सर्वश्रेष्ठ त्यौहार ⭐️ दैनिक राशिफल",
+      "icon": "https://play-lh.googleusercontent.com/4Suh3DQdOplKl-4rSdfWcgJGpFE8HGnjKSdgQEmGcF3kmgfw4fSbD8cCzF1mQnjQvXAP5rZpEVHkEqtT7DL6=w480-h960-rw",
+      "package": "com.New_Calendar.Thakur",
       "button": "देखें"
     }
   ]
